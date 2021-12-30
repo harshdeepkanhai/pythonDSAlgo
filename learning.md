@@ -29,3 +29,6 @@ Tree Properties:
 - **Height of node**: a length of the path from the node to the deepest node
 - **Depth of tree**: depth of root node (Depth of tree is always 0)
 - **Height of tree**: height of root node (number of edge from root to the deepest node)
+
+### 4. How to create basic tree in Python
+    `tree\CreateTree.py`
