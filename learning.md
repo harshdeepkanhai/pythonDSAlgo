@@ -18,3 +18,14 @@ Tree Properties:
 - Store hierarchical data, like folder structure, organization structure, XML/HTML data.
 - There are many different types of data structures which performs better in various situations
     - Binary Search Tree, AVL, Red Black Tree, Trie
+
+### 3. Tree Terminology
+- **Root**: yop node without parent
+- **Edge**: a link between parent and child
+- **Leaf**: a node which does not have children
+- **Sibling**: children of same parent
+- **Ancestor**: parent, grandparent, great grandparent of a node
+- **Depth of node**: a length of the path from root to node
+- **Height of node**: a length of the path from the node to the deepest node
+- **Depth of tree**: depth of root node (Depth of tree is always 0)
+- **Height of tree**: height of root node (number of edge from root to the deepest node)
